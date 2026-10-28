@@ -1,4 +1,4 @@
-# Burra Security Reports
+# B612 Security Reports
 
 Reach out for a security review through Telegram [@windhustler](https://t.me/windhustler)
 
