@@ -32,6 +32,8 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 26. Undisclosed - FHE type-safety updates
 27. [Centrifuge - Bug bounty (Alex Filippov)](./reports/2026-08-Centrifuge-Bug-Bounty-Alex-Filippov.pdf)
 28. [Centrifuge - Bug bounty (LonelySloth)](./reports/2026-09-Centrifuge-Bug-Bounty-LonelySloth.pdf)
+29. [Centrifuge - Vaults V2](./reports/2026-11-Centrifuge-Vaults-V2.pdf)
+30. Undisclosed - Confidential defi
 
 
 ## 2025
@@ -58,6 +60,7 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 20. [LI.FI - Patcher v1.0.1](./reports/2025.12.08-Patcher(v1.0.1).pdf)
 21. Undisclosed - Token Auction
 22. [Centrifuge V3.1. - Axelar/Wormhole/LayerZero cross-chain integration (2)](./reports/2025-10-Centrifuge-V3.1-Report.pdf)
+23. Undisclosed - Smart wallets
 
 
 ## 2024
